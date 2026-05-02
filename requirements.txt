@@ -1,0 +1,15 @@
+ultralytics==8.4.45
+python=3.12.12
+pytorch==2.10.0
+torchvision==0.15.2
+torchaudio==2.10.0
+pytorch-cuda=12.1
+cudatoolkit=12.1
+numpy=1.26.4
+pandas=2.2.2
+opencv=4.10.0
+matplotlib=3.10.0
+tqdm=4.66.5
+pillow=10.4.0
+scipy=1.14.1
+pyyaml=6.0.2
