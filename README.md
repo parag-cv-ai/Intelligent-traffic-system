@@ -19,4 +19,4 @@ An end-to-end AI-powered traffic analytics system built using YOLOv8 for real-ti
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-ObjectDetection-red)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-AGPL-green)
