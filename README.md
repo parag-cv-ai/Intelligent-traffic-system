@@ -12,13 +12,7 @@ An end-to-end AI-powered traffic analytics system built using YOLOv8 for real-ti
 # Architecture
 
 # Dataset
-The experiments were conducted on UVH-26 dataset [1]. The dataset contains 26,646 high resolution (1080p)
-images collected from 2,800 CCTV cameras as a part of Safe City initiative of Bengaluru. The dataset contains
-14 classes of vehicles which are relevant to India. These are Cycle, 2-Wheeler (Motorcycle), 3-Wheeler (Auto-
-rickshaw), LCV (Light Commercial Vehicles), Van, Tempo-traveller, Hatchback, Sedan, SUV, MUV, Mini-bus,
-Bus, Truck and Other. Each frame is stored as an RGB image of 1920 × 1080 pixels with a small part at lower
-resolution. The collection includes different traffic scenarios, such as freeways, urban roads, intersections,
-congestion scenarios, different illuminations, and scenes with high occlusion.
+The experiments were conducted on UVH-26 dataset. The dataset contains 26,646 high resolution (1080p) images collected from 2,800 CCTV cameras as a part of Safe City initiative of Bengaluru. The dataset contains 14 classes of vehicles which are relevant to India. These are Cycle, 2-Wheeler (Motorcycle), 3-Wheeler (Auto-rickshaw), LCV (Light Commercial Vehicles), Van, Tempo-traveller, Hatchback, Sedan, SUV, MUV, Mini-bus, Bus, Truck and Other. Each frame is stored as an RGB image of 1920 × 1080 pixels with a small part at lower resolution. The collection includes different traffic scenarios, such as freeways, urban roads, intersections, congestion scenarios, different illuminations, and scenes with high occlusion.
 
 # Pipeline
 Data → Preprocessing → YOLO → Tracking → Analytics → API
