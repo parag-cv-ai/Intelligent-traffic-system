@@ -24,6 +24,8 @@ Precision : 67.3
 Recall : 65.4
 # Demo (Sample Outputa)
 
+<img width="400" height="225" alt="Output" src="https://github.com/user-attachments/assets/98b147d3-92de-4cd4-9067-e55d3ef28fa3" />
+
 # Author: Dr. Parag Bhuyan
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
