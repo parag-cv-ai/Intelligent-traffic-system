@@ -18,10 +18,10 @@ The experiments were conducted on UVH-26 dataset. The dataset contains 26,646 hi
 Data → Preprocessing → YOLO → Tracking → Analytics → API
 
 # Results
-mAP50 : 62.7
-mAP50-95 : 51.1
-Precision : 66.2
-Recall : 61.6
+mAP50 : 66.4
+mAP50-95 : 55.6
+Precision : 67.3
+Recall : 65.4
 # Demo (Sample Outputa)
 
 # Author: Dr. Parag Bhuyan
